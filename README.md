@@ -1,1 +1,1 @@
-#stan gaat zo hangman
+#hangman

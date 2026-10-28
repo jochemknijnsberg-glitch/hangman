@@ -15,10 +15,16 @@
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
+a
+
 ## Status
-![status](images/1.png)
+![status](images/2.png)
 
 ---
 
 ## Beurtenlog
+<<<<<<< HEAD
 - beurt2: ..e
+=======
+- beurt1: a 
+>>>>>>> 9ffd768c538a18c7fa67294ddf181d5900e203e0

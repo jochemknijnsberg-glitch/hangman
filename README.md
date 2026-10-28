@@ -23,5 +23,12 @@ a
 ---
 
 ## Beurtenlog
+<<<<<<< HEAD
+- beurt2: ..e
+=======
 - beurt1: a 
+<<<<<<< HEAD
 - beurt:  e
+=======
+>>>>>>> 9ffd768c538a18c7fa67294ddf181d5900e203e0
+>>>>>>> 70c9935d775c4a5715ca7f00defc10085f8bc8a3
